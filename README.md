@@ -3,4 +3,7 @@
 
 เขียนโดย "ฉันเอง"
 วันนี้ฉันจะทำ
-[snowball](https://i.pinimg.com/550x/8f/b5/75/8fb575ff3ba7a9752cec8e6d019f92f1.jpg)
+![snowball](https://i.pinimg.com/550x/8f/b5/75/8fb575ff3ba7a9752cec8e6d019f92f1.jpg)
+
+ข้อความนี้ฉันเเก้ไขจากเครื่องในห้องเเล็บ
+5555555 66666 7777 888
